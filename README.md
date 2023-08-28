@@ -3,6 +3,7 @@
 
 
 
+
 ## 1. 프로젝트 소개
 
 ## 💡 개요
@@ -62,9 +63,31 @@
 ## 3. 기능 구현
 
 - ### 홈
-| 로그인 | 페이지 관리 |
-|:-----------:|:-----------:|
-| <img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/9440f116-0709-4eea-b663-496b69a5f082" width="300"> |<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/f6532838-0860-42d9-b17f-1b73417c8675" width="300"> |
+| 로그인 |
+|:-----------:|
+| <img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/9440f116-0709-4eea-b663-496b69a5f082" width="300">|
+
+|페이지 관리 |
+|:-----------:|
+|<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/f6532838-0860-42d9-b17f-1b73417c8675" width="500"> |
+
+|디자인 관리 |
+|:-----------:|
+|<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/33de12e0-04c4-41cc-b756-b1acc86141c8" width="500"> |
+
+- ### 페이지 편집
+
+|반응형 디자인 |
+|:-----------:|
+|<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/692b0df7-5f88-4ee8-a3eb-f49645bf7ef7" width="500"> |
+
+|여백 및 배경색깔 지정 |
+|:-----------:|
+|<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/a14493a9-7728-416a-bbcd-3aeabecf4113" width="500"> |
+
+|디자인 복원 기능|
+|:-----------:|
+|<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/1a5a9393-1bd7-4aaa-807e-43a7c338595e" width="500"> |
 
 
 <!-- Stack Icon Refernces -->
@@ -80,6 +103,7 @@
 [서윤정]: https://github.com/annasyun
 
 
+## 4. 프로젝트 구조
 ```
 📦 Project
 ├─ .gitignore
