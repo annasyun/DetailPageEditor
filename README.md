@@ -1,5 +1,5 @@
-# 편리한 상세페이지 에디터
-![목업이미지](https://github.com/udemy-team16/Udemy-Project/assets/100075245/73efeb7a-51b8-482d-a9b6-d015fa700259)
+# 편리한 상세페이지 빌더
+<img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/73efeb7a-51b8-482d-a9b6-d015fa700259" width="500">
 
 
 
@@ -10,7 +10,7 @@
 
 ```
 
-🪄 Detail Page Editor는 개발자나 퍼블리셔가 아닌 누구나 쉽고 빠르게 상세페이지를 제작 할 수 있는 웹 에디터입니다.
+🪄 개발자나 퍼블리셔가 아닌 누구나 쉽고 빠르게 상세페이지를 제작 할 수 있는 웹 빌더입니다.
 
 🧑🏼‍💻 로그인, 메뉴 관리, 페이지 편집, 복제 및 복원기능을 제공합니다.
 
@@ -102,8 +102,13 @@
 [윤태현]: https://github.com/yoonth95
 [서윤정]: https://github.com/annasyun
 
+## 4. 데이터베이스 ERD
+![image](https://github.com/yoonth95/Web-Builder/assets/78673090/e0121c88-a55d-4a81-b67c-9efa2ee8a38d)
 
-## 4. 프로젝트 구조
+## 5. API 명세서
+![image](https://github.com/yoonth95/Web-Builder/assets/78673090/1d3477fa-3ece-4fb9-8ffb-a849d459eba2)
+
+## 6. 프로젝트 구조
 ```
 📦 Project
 ├─ .gitignore
