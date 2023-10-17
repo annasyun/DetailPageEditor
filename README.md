@@ -1,4 +1,4 @@
-# 편리한 상세페이지 빌더
+# 편리한 상세페이지 웹빌더
 <img src="https://github.com/udemy-team16/Udemy-Project/assets/100075245/73efeb7a-51b8-482d-a9b6-d015fa700259" width="500">
 
 
